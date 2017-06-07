@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5 {
 .navbar-brand {
     padding-top: 5px;
     padding-bottom: 0px;
+    margin-bottom: 0px !important;
 }
 
 .navbar-brand > a {
@@ -45,14 +46,6 @@ h1, h2, h3, h4, h5 {
     font-size: 25px !important;
 }
 
-.up-contact {
-    padding-top: 10px;
-    padding-left: 25px;
-    color: #000000;
-    background-color: #daeef9;
-    font-size: 12px;
-}
-
 
 .main_men_wrap {
     min-width: 100%;
@@ -65,8 +58,6 @@ h1, h2, h3, h4, h5 {
 }
 
 .navbar-nav > li > a {
-    /*margin-left: 10px;
-    margin-right: 10px;*/
     padding-left: 10px;
     padding-right: 10px;
 }

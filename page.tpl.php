@@ -99,8 +99,7 @@
       <div class="row">
         <div class="col-md-4">
           <p class="navbar-brand">
-            <a href="http://newhistorycenter.beltelecom.by">Историко-информационный<br>
-            центр связи</a>
+            <a href="http://newhistorycenter.beltelecom.by" class="text-uppercase">Историко-информационный<br>центр связи</a>
           </p>
           <div class="navbar-header block-center">
             <?php if (!empty($primary_nav) || !empty($secondary_nav) || !empty($page['navigation'])): ?>
@@ -114,7 +113,7 @@
           </div>
         </div>
         <div class="col-md-8">
-          <div class="navbar-collapse collapse text-uppercase" id="navbar-collapse">
+          <div class="navbar-collapse collapse" id="navbar-collapse">
             <nav role="navigation" class="pull-right">
               <strong>
                 <?php if (!empty($primary_nav)): ?>
